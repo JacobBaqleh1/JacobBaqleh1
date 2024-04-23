@@ -7,7 +7,7 @@
     <td width="50%"  valign="top">
       <h3 align="center">PetFriends.org</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="https://remix-pets.vercel.app/">
             <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8b80e4a3-02ba-4b1b-b79d-84622da2bd1a"  
  width="100%" alt="Pet Friends App"/>
         </a>
@@ -17,8 +17,8 @@
   <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://remix-pets.vercel.app/" target="_blank">
+  Live Site
   </a>
       </p>
         <p><strong>Remix.run, TailwingCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
