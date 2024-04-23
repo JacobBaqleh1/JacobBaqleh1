@@ -5,10 +5,11 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">PetFriends.org</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src=![image](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8b80e4a3-02ba-4b1b-b79d-84622da2bd1a)
+ width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
