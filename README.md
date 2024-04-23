@@ -9,7 +9,7 @@
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
             <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8b80e4a3-02ba-4b1b-b79d-84622da2bd1a"  
- width="100%" alt="Travel App"/>
+ width="100%" alt="Pet Friends App"/>
         </a>
         <br />
         <p align="center">
@@ -21,13 +21,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Remix.run, React, Javascript, TailwingCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
+        <p><strong>Remix.run, TailwingCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">"</h3>
+      <h3 align="center"></h3>
         <br />
      
-    </td>
+    
 </tr>
 <!--
 **JacobBaqleh1/JacobBaqleh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
