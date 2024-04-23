@@ -4,7 +4,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" height="25%" valign="top">
       <h3 align="center">PetFriends.org</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
