@@ -16,7 +16,8 @@
           
   <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
+  </a> 
+  <br />
   <a href="https://remix-pets.vercel.app/" target="_blank">
   Live Site
   </a>
