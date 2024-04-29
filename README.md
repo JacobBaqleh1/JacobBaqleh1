@@ -1,11 +1,11 @@
-### Hi there 👋. Thanks for checking out my GitHub.
+### Hi there 👋. Thanks for checking out my GitHub. 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%"  valign="top">
-      <h3 align="center">PetFriends.org</h3>
+      <h3 align="center">Pet Friends</h3>
         <br />
         <a target="_blank" href="https://remix-pets.vercel.app/">
             <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8b80e4a3-02ba-4b1b-b79d-84622da2bd1a"  
