@@ -27,8 +27,9 @@
     <td width="50%" valign="top">
       <h3 align="center">Nintendo Sound Board</h3>
         <br />
+        <a target="_blank" href="https://jacobbaqleh1.github.io/nintendo-soundboard/>
         <img src='https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8d623f0b-378e-4626-8afd-db1b2773add1' width="100%"  alt="Nintendo project"
- />
+ /></a>
       </td>
     
 </tr>
