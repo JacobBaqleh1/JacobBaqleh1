@@ -30,6 +30,19 @@
         <a target="_blank" href="https://jacobbaqleh1.github.io/nintendo-soundboard/>
         <img src='https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8d623f0b-378e-4626-8afd-db1b2773add1' width="100%"  alt="Nintendo project"
  /></a>
+       <br />
+        <p align="center">
+          
+  <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
+    <img src="![Screenshot (44)](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/013555fe-d73a-45ae-bf05-1f435159be5e)
+"/>
+  </a> 
+  <br />
+  <a href="https://remix-pets.vercel.app/" target="_blank">
+  Live Site
+  </a>
+      </p>
+        <p><strong>Remix.run, TailwindCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
       </td>
     
 </tr>
