@@ -27,9 +27,10 @@
     <td width="50%" valign="top">
       <h3 align="center">Nintendo Sound Board</h3>
         <br />
-        <a target="_blank" href="https://jacobbaqleh1.github.io/nintendo-soundboard/>
-        <img src="![exapmlw](file:///C:/Users/jacob/OneDrive/Pictures/Screenshots/Screenshot%20(44).png)"width="100%"  alt="Nintendo project"
- /></a>
+         <a target="_blank" href="https://remix-pets.vercel.app/">
+            <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/21e285c1-ccae-4e0b-900e-6e4e318e5005"  
+ width="100%" alt="Soundboard"/>
+        </a>
        <br />
         <p align="center">
           
