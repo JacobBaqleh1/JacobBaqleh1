@@ -15,7 +15,7 @@
         <p align="center">
           
   <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/b5346bd3-7c05-4592-aee6-ac60b3d0dacd)"/>
   </a> 
   <br />
   <a href="https://remix-pets.vercel.app/" target="_blank">
