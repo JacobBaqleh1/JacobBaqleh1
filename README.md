@@ -28,7 +28,7 @@
       <h3 align="center">Nintendo Sound Board</h3>
         <br />
         <a target="_blank" href="https://jacobbaqleh1.github.io/nintendo-soundboard/>
-        <img src="![Nintendo project](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/ab6d3774-dab5-47a8-b2ae-43a6def9561a)
+        <img src="![Screenshot (44)](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/b5346bd3-7c05-4592-aee6-ac60b3d0dacd)
 " width="100%"  alt="Nintendo project"
  /></a>
        <br />
