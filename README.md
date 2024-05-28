@@ -24,7 +24,7 @@
       </p>
         <p><strong>Remix.run, TailwindCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Nintendo Sound Board</h3>
         <br />
          <a target="_blank" href="https://remix-pets.vercel.app/">
@@ -44,7 +44,7 @@
   </a>
       </p>
         <p><strong>HTML, TailwindCSS, & Javascript</strong> - HTML audio project</p>
-      </td>
+      </td> -->
     
 </tr>
 <!--
