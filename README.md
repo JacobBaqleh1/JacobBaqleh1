@@ -15,7 +15,7 @@
         <p align="center">
           
   <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
-    <img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/b5346bd3-7c05-4592-aee6-ac60b3d0dacd)"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
   <br />
   <a href="https://remix-pets.vercel.app/" target="_blank">
@@ -28,13 +28,13 @@
       <h3 align="center">Nintendo Sound Board</h3>
         <br />
         <a target="_blank" href="https://jacobbaqleh1.github.io/nintendo-soundboard/>
-        <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/b5346bd3-7c05-4592-aee6-ac60b3d0dacd" width="100%"  alt="Nintendo project"
+        <img src="![exapmlw](file:///C:/Users/jacob/OneDrive/Pictures/Screenshots/Screenshot%20(44).png)"width="100%"  alt="Nintendo project"
  /></a>
        <br />
         <p align="center">
           
   <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
-    <img src="![Screenshot (44)](https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/013555fe-d73a-45ae-bf05-1f435159be5e)
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white
 "/>
   </a> 
   <br />
@@ -42,7 +42,7 @@
   Live Site
   </a>
       </p>
-        <p><strong>Remix.run, TailwindCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
+        <p><strong>HTML, TailwindCSS, & Javascript</strong> - HTML audio project</p>
       </td>
     
 </tr>
