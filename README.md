@@ -1,4 +1,4 @@
-### Hi there 👋. Thanks for checking out my GitHub! Currently building projects using JavaScript.
+### Hi there 👋. Thanks for checking out my GitHub! 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
