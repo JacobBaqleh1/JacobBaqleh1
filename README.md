@@ -1,4 +1,8 @@
-### Hi there 👋. Thanks for checking out my GitHub
+# About Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40JacobBaqleh1-239a3b.svg)](https://github.com/JacobBaqleh1)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/jacobbaqleh/)
+[![X](https://img.shields.io/badge/X-%40JacobBaqleh-222222.svg)](https://x.com/jacobbaqleh)
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -9,7 +13,7 @@
         <br />
         <a target="_blank" href="https://remix-pets.vercel.app/">
             <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/8b80e4a3-02ba-4b1b-b79d-84622da2bd1a"  
- width="100%" alt="Pet Friends App"/>
+  style="height: 250px; object-fit: cover; width: 100%;"  alt="Pet Friends App"/>
         </a>
         <br />
         <p align="center">
@@ -22,14 +26,15 @@
   Live Site
   </a>
       </p>
-        <p><strong>Remix.run, TailwindCSS, & Node.js</strong> - Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
+        <p>Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
+        <p><strong>Tech Stack 🛠️: Remix.run, TailwindCSS, & Node.js</strong> </p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Nintendo Sound Board</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">ROAM</h3>
         <br />
-         <a target="_blank" href="https://remix-pets.vercel.app/">
-            <img src="https://github.com/JacobBaqleh1/JacobBaqleh1/assets/101436252/21e285c1-ccae-4e0b-900e-6e4e318e5005"  
- width="100%" alt="Soundboard"/>
+         <a target="_blank" href="https://roam-sigma.vercel.app/">
+            <img src="https://github.com/user-attachments/assets/10cc1c17-c90d-4a70-a4b7-9e999d3e9bd6"  
+  style="height: 250px; object-fit: cover; width: 100%;"  alt="Logo"/>
         </a>
        <br />
         <p align="center">
@@ -43,9 +48,9 @@
   Live Site
   </a>
       </p>
-        <p><strong>HTML, TailwindCSS, & Javascript</strong> - HTML audio project</p>
-      </td> -->
-    
+        <p>Nationl Park Locater</p>
+        <p><strong>Tech Stack 🛠️: React, MongoDB, Nodejs, & Expressjs</strong></p>
+      </td> 
 </tr>
 <!--
 **JacobBaqleh1/JacobBaqleh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
