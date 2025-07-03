@@ -4,7 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/jacobbaqleh/)
 [![X](https://img.shields.io/badge/X-%40JacobBaqleh-222222.svg)](https://x.com/jacobbaqleh)
 
-<h1 align="center">Projects</h1>
+<h1>About Me</h1>
+<p>Hi, I Jacob👋 . I love turning ideas into reality using software. I grew up in California, live in the Portland,Oregon. Contributor in the CodePDX community. I also love exploring nature in my free time🌲.</p>
+
+<h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -51,6 +54,30 @@
         <p>Nationl Park Locater</p>
         <p><strong>Tech Stack 🛠️: React, MongoDB, Nodejs, & Expressjs</strong></p>
       </td> 
+</tr>
+ <tr>
+    <td width="50%"  valign="top">
+      <h3 align="center">Skate Spot Guesser</h3>
+        <br />
+        <a target="_blank" href="https://nextjs-skatespot-guesser.vercel.app/">
+            <img src="https://github.com/user-attachments/assets/720d0471-bb49-4404-8af7-0020636fc9e6"  
+  style="height: 250px; object-fit: cover; width: 100%;"  alt="Skate Spot Guesser"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <br />
+  <a href="https://remix-pets.vercel.app/" target="_blank">
+  Live Site
+  </a>
+      </p>
+        <p>Browser game for guessing the location of where you are placed. Everyday is a new spot!</p>
+        <p><strong>Tech Stack 🛠️: Next.js, Firebase, Typescript, TailwindCSS</strong> </p>
+    </td>
+  
 </tr>
 <!--
 **JacobBaqleh1/JacobBaqleh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
