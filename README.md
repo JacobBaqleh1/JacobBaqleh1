@@ -6,6 +6,9 @@
 <h1>About Me</h1>
 <p>Hi, I Jacob👋 . I love turning ideas into reality using software. I grew up in California, live in the Portland,Oregon. Contributor in the CodePDX community. I also love exploring nature in my free time🌲.</p>
 
+- 🔭 I’m currently working on GeoGusser Clone
+- 🌱 I’m currently learning Firebase
+
 <h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
   
