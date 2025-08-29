@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
   <br />
-  <a href="https://remix-pets.vercel.app/" target="_blank">
+  <a href="https://www.skatespotter.app/" target="_blank">
   Live Site
   </a>
       </p>
