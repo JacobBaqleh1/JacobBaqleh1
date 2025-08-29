@@ -61,14 +61,14 @@
     <td width="50%"  valign="top">
       <h3 align="center">Skate Spot Guesser</h3>
         <br />
-        <a target="_blank" href="https://nextjs-skatespot-guesser.vercel.app/">
+        <a target="_blank" href="https://www.skatespotter.app/">
             <img src="https://github.com/user-attachments/assets/720d0471-bb49-4404-8af7-0020636fc9e6"  
   style="height: 250px; object-fit: cover; width: 100%;"  alt="Skate Spot Guesser"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/JacobBaqleh1/remix-pets" target="_blank">
+  <a href="https://www.skatespotter.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
   <br />
