@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-%40JacobBaqleh-222222.svg)](https://x.com/jacobbaqleh)
 
 <h1>About Me</h1>
-<p>Hi, I Jacob👋 . I love turning ideas into reality using software. I grew up in California, live in the Portland,Oregon. Contributor in the CodePDX community. I also love exploring nature in my free time🌲.</p>
+<p>Hi, I Jacob👋 . I love turning ideas into reality using software. I grew up in California, and live in the Pacific Northwest. Contributor in the CodePDX community. I also love exploring nature in my free time🌲.</p>
 
 - 🔭 I’m currently working on GeoGuesser Clone
 - 🌱 I’m currently learning Firebase
