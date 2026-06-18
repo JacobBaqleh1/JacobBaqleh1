@@ -38,12 +38,8 @@
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/JacobBaqleh1/Kitchen-list" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  &nbsp;
   <a href="https://mykitchenlist.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Site-66b2b2?style=plastic&logo=vercel&logoColor=white" alt="Live Site"/>
+    <img height="60" src="https://img.shields.io/badge/Live%20Site-66b2b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
   </a>
       </p>
         <p>Track your kitchen inventory across fridge, freezer & pantry, scan groceries or receipts, and get AI-powered meal ideas.</p>
@@ -63,7 +59,7 @@
   </a>
   &nbsp;
   <a href="https://roam-sigma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Site-66b2b2?style=plastic&logo=vercel&logoColor=white" alt="Live Site"/>
+    <img height="60" src="https://img.shields.io/badge/Live%20Site-66b2b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
   </a>
       </p>
         <p>National Park Locator.</p>
@@ -85,7 +81,7 @@
   </a>
   &nbsp;
   <a href="https://skatespotter.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Site-66b2b2?style=plastic&logo=vercel&logoColor=white" alt="Live Site"/>
+    <img height="60" src="https://img.shields.io/badge/Live%20Site-66b2b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
   </a>
       </p>
         <p>Browser game for guessing the location where you're placed. Every day is a new spot!</p>
@@ -105,7 +101,7 @@
   </a>
   &nbsp;
   <a href="https://remix-pets.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Site-66b2b2?style=plastic&logo=vercel&logoColor=white" alt="Live Site"/>
+    <img height="60" src="https://img.shields.io/badge/Live%20Site-66b2b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
   </a>
       </p>
         <p>Platform to help animals find a home! PetFriends allows people to adopt a pet!</p>
